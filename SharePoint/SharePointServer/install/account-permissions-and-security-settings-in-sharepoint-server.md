@@ -29,7 +29,7 @@ This article describes SharePoint administrative and services account permission
 ## SharePoint Server account recommendations
 
 > [!NOTE]
-> For recommendations on SharePoint Server accounts, see [Initial deployment administrative and service accounts in SharePoint Server](initial-deployment-administrative-and-service-accounts-in-sharepoint-server)
+> For recommendations on SharePoint Server accounts, see [Initial deployment administrative and service accounts in SharePoint Server](initial-deployment-administrative-and-service-accounts-in-sharepoint-server.md)
 
 ## SharePoint administrative accounts
 <a name="Section1"> </a>
